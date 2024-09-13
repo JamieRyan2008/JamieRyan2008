@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jamieryan2008&label=Profile%20views&color=0e75b6&style=flat" alt="jamieryan2008" /> </p>
 
-- 🔭 I’m currently working on **the developement of digital infrastructure for local clubs**
+- 🔭 I’m currently working as **system administrator and developer for local organizations**
 
 - 🌱 I’m currently learning **digital infrastructure and cybersecurity**
 
